@@ -1,0 +1,39 @@
+/* CSS Layout */
+
+
+/* Main Background */
+.page {background-color:#99ffff; 
+       width:80%; 
+	   margin:auto; 
+	   padding:10px;}
+
+
+/* Header Section */
+.main-header {background-color: #8080ff;}
+
+.sticky {
+  position: sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+}
+/* Main + Sidebar Background */
+.container {
+            padding:10px;}
+
+
+/* Main Section */
+.main {background-color:#ffb3ff;
+       width:70%;
+	   float:right;
+	text-align: center;}
+
+
+/* Sidebar Section */
+.sidebar { width:30%;
+	 float:left;
+	 text-align: center;}
+
+/* Footer Section */
+.main-footer {background-color:#8080ff;
+              clear:both;}
